@@ -26,6 +26,6 @@ To run this project **locally**, follow these steps:
 
 ### 🔹 **1. Clone the Repository**
 ```sh
-git clone https://github.com/ShreedharBarot/EV-Dashboard.git
+git clone https://github.com/kshitizj4/Python-Electric-Vehicles-Analysis-main.git
 cd EV-Dashboard
 
